@@ -1,5 +1,6 @@
 # Hello.
 I am 432. Founder of the XY Syndicate.
+
 I am 432. The first recorded person to look at the inner workings of a Z-Terminal.
 
 I am 432.
