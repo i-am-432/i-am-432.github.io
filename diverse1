@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>I am 432: Diversion 1</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1>Be aware.</h1>
+    <p><em>They</em> have found this site. All I know is that their systems are automated, so I can do some trickery here and there. I will probably
+    have to make a few diversion blogs so that the systems don't get too much from me. This is the first of these diversions.</p>
+    
+    <h3>Welcome back.</h3>
+    <p class="post">I am making progress. I have multiple areas of interest where I could get hold of an old Z-Terminal, so I can keep inspecting. I've
+    learn't my lesson with this: turn off logging, global internet and anything that could lend <em>them</em> access to my location. I really want to create a new
+    network tunnel to an old terminal but I have thing prioratised in front of that.</p>
+  </body>
+</html>
