@@ -6,9 +6,12 @@ body {
   color: #ddddff;
   padding-left: 50px;
 }
-p.CDXXXII {
+.CDXXXII {
   color: green;
 }
-p.SYSTEM {
+.SYSTEM {
   color: lightblue;
+}
+.WARNING {
+  color: red;
 }
